@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBGjTBQBLhEYPEfhtRh1yM3HXjAYbJ2s10</string>
+	<key>GCM_SENDER_ID</key>
+	<string>993389425824</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vidshare.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>vidshare-e92f7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vidshare-e92f7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:993389425824:ios:cfdf130cb022ffa94fc5c5</string>
+</dict>
+</plist>
